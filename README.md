@@ -12,13 +12,13 @@ This project is an Arduino-based motor control system that simulates a conveyor 
 - Run Time Tracking using Arduino millis() function
 - Safe Motor Stop Function to ensure proper shutdown of motor pins
 # Hardware Used:
-Arduino Uno / compatible board
-DC Motor
-Motor driver (H-bridge, e.g., L298N)
-16x2 LCD with I2C module
-Push buttons (ON/OFF and Emergency)
-Potentiometer
-External power supply for motor
+- Arduino Uno / compatible board
+- DC Motor
+- Motor driver (H-bridge, e.g., L298N)
+- 16x2 LCD with I2C module
+- Push buttons (ON/OFF and Emergency)
+- Potentiometer
+- External power supply for motor
 # Pin Configuration
 | No | Component / Function | Arduino Pin | Type | Description |
 |----|---------------------|-------------|------|-------------|
