@@ -44,7 +44,7 @@ This project is an Arduino-based motor control system that simulates a conveyor 
 # Project Documentation
 - Source Code: [Code.ino](https://github.com/Khariz20/-Simple-Conveyor-System/blob/main/Code.ino)
 - Circuit Schematic: [3D Schematics](https://github.com/Khariz20/-Simple-Conveyor-System/blob/main/3D%20Scematics.jpeg)
-- Simulation Video: [Video Simulation](https://github.com/Khariz20/-Simple-Conveyor-System/blob/main/Simulation%20Video)
+- Simulation Video: [Watch Here](https://youtu.be/lmddL5Itykc?si=UNYXx-AAjTvlQVKw)
 - Cirkir Simulation: [Try On Cirkit Designer](https://app.cirkitdesigner.com/project/f9d4d8e6-6511-42a2-8dc5-231fa70b6332)
 
 
