@@ -41,3 +41,11 @@ This project is an Arduino-based motor control system that simulates a conveyor 
 7. The motor runs forward with IN1 HIGH and IN2 LOW when active.
 8. The motor stops when the system is OFF or emergency mode is active.
 9. The LCD displays motor status, emergency status, speed, and runtime in real time.
+# Project Documentation
+Source Code: [Code.ino](https://github.com/Khariz20/-Simple-Conveyor-System/blob/main/Code.ino)
+Circuit Schematic: [3D Schematics](https://github.com/Khariz20/-Simple-Conveyor-System/blob/main/3D%20Scematics.jpeg)
+Simulation Video: Video Simulation
+Cirkir Simulation: [Try On Cirkit Designer](https://app.cirkitdesigner.com/project/f9d4d8e6-6511-42a2-8dc5-231fa70b6332)
+
+
+_Developed by [Kharisma Putra Mahardhika](https://github.com/Khariz20)_
